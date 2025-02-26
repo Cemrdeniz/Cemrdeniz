@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🚀 Tech Stack:
-🔹 Backend: .NET Core, ASP.NET, Entity Framework, Flask, FastAPI
-🔹 Frontend: React.js, React Native, HTML, CSS, JavaScript
-🔹 Database: MSSQL, MySQL, PostgreSQL
-🔹 AI & Data Science: Python, Pandas, NumPy, Scikit-learn, OpenCV
-🔹 DevOps & Tools: Git, CI/CD (GitHub Actions), Microservices Architecture
+- Backend: .NET Core, ASP.NET, Entity Framework, Flask, FastAPI
+- Frontend: React.js, React Native, HTML, CSS, JavaScript
+- Database: MSSQL, MySQL, PostgreSQL
+- AI & Data Science: Python, Pandas, NumPy, Scikit-learn, OpenCV
+- DevOps & Tools: Git, CI/CD (GitHub Actions), Microservices Architecture
 
 🛠 What I Do:
 ✔ Develop and maintain high-performance web applications with .NET Core & React
