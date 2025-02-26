@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 Full Stack Developer | AI Enthusiast
-## Computer Engineer | 🚀 Mobile / Web Development & Artificial Intelligence
+## 🎓 Computer Engineer | 🚀 Mobile / Web Development & Artificial Intelligence
 
 <!--
 **Cemrdeniz/Cemrdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
